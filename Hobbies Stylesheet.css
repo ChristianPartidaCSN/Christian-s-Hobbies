@@ -1,0 +1,35 @@
+/* My Custom CSS */
+
+body {
+    background-color: aquamarine;
+    padding-top: 25px;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+} 
+
+h2{
+    font-size: 12px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+.jumbotron{
+    margin: auto;
+    background-color: antiquewhite;
+    line-height: 1;
+    height: 170px;
+}
+
+.footer {
+    background: #aaa;
+}
+img.resize {
+  width:200px;
+  height:40px;
+}
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
